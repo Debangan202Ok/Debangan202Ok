@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **REACTJS,NEXTJS,WASM,WEBGL**
 
-- 👨‍💻 All of my projects are available at [https://idyllic-torte-18815e.netlify.app/](https://idyllic-torte-18815e.netlify.app/)
+- 👨‍💻 Show my 40's retro newspaper type portfolio [https://idyllic-torte-18815e.netlify.app/](https://idyllic-torte-18815e.netlify.app/)
 
 - 💬 Ask me about **react,nextjs,wasm**
 
