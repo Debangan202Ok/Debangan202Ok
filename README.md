@@ -25,3 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debangan202Ok&show_icons=true&locale=en&layout=compact" alt="Debangan202Ok"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Debangan202Ok&show_icons=true&locale=en" alt="Debangan202Ok" /></p>
+
+[![An image of @debangan202ok's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debangan202ok)](https://holopin.io/@debangan202ok)
