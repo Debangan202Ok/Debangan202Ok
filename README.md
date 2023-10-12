@@ -1,4 +1,4 @@
-[![An image of @debangan202ok's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debangan202ok)](https://holopin.io/@debangan202ok) 
+[![An image of @debangan202ok's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debangan202ok)](https://holopin.io/@debangan202ok)
 
 <h1 align="center">Hi , I'M DEBANGAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
